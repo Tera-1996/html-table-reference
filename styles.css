@@ -1,0 +1,39 @@
+h1 {
+    position: relative;
+    color: rgba(75, 0, 75, 75);
+   text-align: center;
+   padding: left;
+   }
+   
+   h2 {
+   position: relative;
+     color: rgba(75, 0, 75, 75);
+     text-align: center;
+   padding: left;
+   }
+   
+   table {
+     table-layout: fixed;
+     width: 600px;
+     border: 1px solid red;
+     text-align: center;
+     margin: 0 auto;
+
+   }
+   
+   td {
+     border: 1px solid blue;
+     overflow: hidden;
+     white-space: pre-wrap;
+     text-overflow: ellipsis;
+   }
+   
+   th {
+      table-layout: fixed;
+     width: 150px;
+     border: 1px solid red;
+   }
+
+   body {
+    background: linear-gradient(to bottom, #ff00cc, #333399, #00ff00);
+  }
